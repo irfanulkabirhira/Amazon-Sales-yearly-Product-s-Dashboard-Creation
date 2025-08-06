@@ -1,5 +1,6 @@
 # Amazon-Sales-yearly-Product-s-Dashboard-Creation
-Amazon Sales yearly Product's Dashboard Creation
+📦 Amazon Sales Yearly Product Dashboard (Power BI)
+
 This Power BI dashboard provides a detailed visual representation of Amazon’s yearly product sales performance across various dimensions, spanning the years 2012 to 2015. The project was built to offer business users and analysts a dynamic way to explore sales metrics, customer behavior, market trends, and product profitability.
 
 📊 This project showcases how Power BI can be used to convert raw sales data into actionable insights that drive strategic decisions in e-commerce.
